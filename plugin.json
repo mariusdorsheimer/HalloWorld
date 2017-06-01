@@ -4,5 +4,5 @@
   "namespace"         :"HelloWorld",
   "author"            :"Marius Dorsheimer",
   "type"              :"template",
-  "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
+  "serviceProvider"   :"HalloWorld\\Providers\\HelloWorldServiceProvider"
 }
