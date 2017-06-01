@@ -1,6 +1,6 @@
 <?php
 
-namespace HelloWorld\Controllers;
+namespace HalloWorld\Controllers;
 
 use Plenty\Plugin\Controller;
 use Plenty\Plugin\Templates\Twig;
