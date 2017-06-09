@@ -1,0 +1,9 @@
+[
+  {
+    "tab"    : "Test",
+    "key"    : "testkey",
+    "label"  : "Test",
+    "type"   : "text",
+    "default": "Test123"
+  }
+]
