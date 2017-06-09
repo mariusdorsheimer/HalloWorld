@@ -15,7 +15,7 @@ class ContentController extends Controller {
 
     public function sayHello(Twig $twig, ConfigRepository $repository) {
 
-        $this->getLogger('test')->error('test', $repository->get('HelloWorld.testKey'));
+        $this->getLogger('test')->error('test', $repository->get('HelloWorld.testkey'));
 
         return $twig->render('HelloWorld::content.helloWorld');
     }
